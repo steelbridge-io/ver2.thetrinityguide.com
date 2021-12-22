@@ -30,16 +30,16 @@ export const NavLinks = [
     url: "/about",
   },
   {
-    name: "Services",
-    url: "/service",
+    name: "Our Waters",
+    url: "/our-waters",
     subItems: [
       {
-        name: "Services",
-        url: "/service",
+        name: "Our Waters",
+        url: "/our-waters",
       },
       {
-        name: "Service Details",
-        url: "/service-details",
+        name: "Guided Fly Fishing Details",
+        url: "/guided-fly-fishing-details",
       },
     ],
   },
@@ -58,24 +58,24 @@ export const NavLinks = [
     ],
   },
   {
-    name: "Blog",
-    url: "/blog",
+    name: "News",
+    url: "/news",
     subItems: [
       {
-        name: "Blog 01",
-        url: "/blog",
+        name: "News 01",
+        url: "/news",
       },
       {
-        name: "Blog 02",
-        url: "/blog-2",
+        name: "News 02",
+        url: "/news-2",
       },
       {
-        name: "Blog 03",
-        url: "/blog-3",
+        name: "News 03",
+        url: "/news-3",
       },
       {
-        name: "Blog Details",
-        url: "/blog-single",
+        name: "News Details",
+        url: "/news-single",
       },
     ],
   },
@@ -91,8 +91,8 @@ import sliderOne02 from "@/images/slider/1_2.jpg";
 export const SliderOneData = [
   {
     image: sliderOne01,
-    subTitle: "WELCOME TO MEIPALY AGENCY",
-    title: "SMART WEB \n DESIGN AGENCY.",
+    subTitle: "N. CALIFORNIA",
+    title: "THE TRINITY GUIDE \n GUIDED FLY FISHING",
     button: {
       label: "DISCOVER MORE",
       url: "/about",
@@ -100,8 +100,8 @@ export const SliderOneData = [
   },
   {
     image: sliderOne02,
-    subTitle: "WELCOME TO MEIPALY AGENCY",
-    title: "SMART WEB \n DESIGN AGENCY.",
+    subTitle: "GUIDED FLY FISHING",
+    title: "EXPERIENCE FIRST \n GUIDED FLY FISHING",
     button: {
       label: "DISCOVER MORE",
       url: "/about",
@@ -116,8 +116,8 @@ import sliderTwo03 from "@/images/slider/2_3.jpg";
 export const SliderTwoData = [
   {
     image: sliderTwo01,
-    subTitle: "WELCOME TO MEIPALY AGENCY",
-    title: "DIGITAL\nMARKETING\nAGENCY.",
+    subTitle: "N. CALIFORNIA",
+    title: "THE TRINITY GUIDE\nFINDING\nSMILES",
     button: {
       label: "DISCOVER MORE",
       url: "/about",
@@ -125,8 +125,8 @@ export const SliderTwoData = [
   },
   {
     image: sliderTwo02,
-    subTitle: "WELCOME TO MEIPALY AGENCY",
-    title: "DIGITAL\nMARKETING\nAGENCY.",
+    subTitle: "THE TRINITY GUIDE",
+    title: "GUIDED\nFLY FISHING\nEXPERIENCE",
     button: {
       label: "DISCOVER MORE",
       url: "/about",
@@ -134,8 +134,8 @@ export const SliderTwoData = [
   },
   {
     image: sliderTwo03,
-    subTitle: "WELCOME TO MEIPALY AGENCY",
-    title: "DIGITAL\nMARKETING\nAGENCY.",
+    subTitle: "WHAT MAKES US A GREAT CHOICE",
+    title: "EXPERIENCE\nFRIENDLY\nNO EGO",
     button: {
       label: "DISCOVER MORE",
       url: "/about",
@@ -149,8 +149,8 @@ import sliderThree02 from "@/images/slider/3_2.jpg";
 export const SliderThreeData = [
   {
     image: sliderThree01,
-    subTitle: "WELCOME TO MEIPALY AGENCY",
-    title: "SMART WEB\n DESIGN AGENCY.",
+    subTitle: "N. CALIFORNIA",
+    title: "THE TRINITY GUIDE\n GUIDED FLY FISHING",
     button: {
       label: "DISCOVER MORE",
       url: "/about",
@@ -158,8 +158,8 @@ export const SliderThreeData = [
   },
   {
     image: sliderThree02,
-    subTitle: "WELCOME TO MEIPALY AGENCY",
-    title: "SMART WEB\n DESIGN AGENCY.",
+    subTitle: "THE TRINITY GUIDE",
+    title: "EXPERIENCE FIRST\n GUIDED FLY FISHING",
     button: {
       label: "DISCOVER MORE",
       url: "/about",
@@ -168,66 +168,66 @@ export const SliderThreeData = [
 ];
 
 export const ContactInfosBlock = {
-  subTitle: "our offices",
-  title: "offices near you",
+  subTitle: "our office",
+  title: "The waters of Northern California",
   description:
-    "We are committed to providing our customers with exceptional service while \n offering our employees the best training.",
+    "We are committed to providing our guests with a memorable, enjoyable guided fly fishing experience.  \n An experience you will look forward two seasonally. We will always look forward to guiding you and yours on your next fly fishing vacation or weekend get away.",
 };
 
 export const ContactInfosList = [
   {
-    title: "austin",
+    title: "lower sacramento river",
     infos: [
       {
-        name: "22 Texas West Hills",
+        name: "Redding California",
       },
       {
-        name: "needhelp@meipaly.com",
+        name: "alex@thetrinityguide.com",
       },
       {
-        name: "666 888 000",
+        name: "123 456 7890",
       },
     ],
   },
   {
-    title: "boston",
+    title: "trinity river",
     infos: [
       {
-        name: "5 Federal Street Boston",
+        name: "Douglas City California",
       },
       {
-        name: "needhelp@meipaly.com",
+        name: "alex@thetrinityguide.com",
       },
       {
-        name: "666 888 000",
+        name: "123 456 7890",
       },
     ],
   },
   {
-    title: "new york",
+    title: "upper sacramento river",
     infos: [
       {
-        name: "8th Broklyn New York",
+        name: "Mt. Shasta California",
       },
       {
-        name: "needhelp@meipaly.com",
+        name: "alex@thetrinityguide.com",
       },
       {
-        name: "666 888 000",
+        name: "123 456 7890",
       },
     ],
   },
   {
-    title: "baltimore",
+    title: "McCloud River",
     infos: [
       {
-        name: "3 Lombabr 50 baltimore",
+        name: "McCloud California",
       },
       {
-        name: "needhelp@meipaly.com",
+        name: "alex@thetrinityguide.com",
       },
       {
-        name: "666 888 000",
+        name: "123 456 7890",
       },
     ],
   },
@@ -237,7 +237,7 @@ export const ContactFormTitle = {
   subTitle: "Contact with us",
   title: "write us a message",
   description:
-    "We are committed to providing our customers with exceptional service while \n      offering our employees the best training. ",
+    "We reply within 24 hours. \n  Please reach out here. We love receiving messages! ",
 };
 
 import blogImage1 from "@/images/blog/1.jpg";
@@ -249,39 +249,39 @@ import blogImage6 from "@/images/blog/6.jpg";
 
 export const BlogData = [
   {
-    title: "basic rules of running web agency business",
+    title: "how we run our fly fishing outfitter business",
     date: "20 nov",
-    url: "/blog-single",
+    url: "/news-single",
     image: blogImage1,
   },
   {
-    title: "Become the best sale marketer",
-    date: "20 nov",
-    url: "/blog-single",
+    title: "Become a fly fishing guide",
+    date: "23 dec",
+    url: "/news-single",
     image: blogImage2,
   },
   {
-    title: "Introducing latest mopaly features",
-    date: "20 nov",
-    url: "/blog-single",
+    title: "Introducing guided fly fishing",
+    date: "20 jab",
+    url: "/news-single",
     image: blogImage3,
   },
   {
-    title: "a deep understanding of our audience",
-    date: "20 nov",
-    url: "/blog-single",
+    title: "Understanding the fly fishing client",
+    date: "15 feb",
+    url: "/news-single",
     image: blogImage4,
   },
   {
-    title: "We build and activate brands insight",
-    date: "20 nov",
+    title: "Ego and fly fishing",
+    date: "15 apr",
     url: "/blog-single",
     image: blogImage5,
   },
   {
-    title: "experiences that connect with people",
-    date: "20 nov",
-    url: "/blog-single",
+    title: "The secret to generating return clients",
+    date: "15 may",
+    url: "/news-single",
     image: blogImage6,
   },
 ];
@@ -292,55 +292,55 @@ import blogImageTwo2 from "@/images/blog/15.jpg";
 export const BlogTwoData = [
   {
     title:
-      "Dynamically procrastinate unique vortals with global best practices.",
+      "How to find rainbow trout in any river",
     date: "20 nov",
-    url: "/blog-single",
+    url: "/news-single",
     image: blogImageTwo1,
   },
   {
-    title: "Become the best sale marketer",
-    date: "20 nov",
-    url: "/blog-single",
+    title: "How to find steelhead in any river",
+    date: "20 dec",
+    url: "/news-single",
     image: blogImage2,
   },
   {
-    title: "Introducing latest mopaly features",
-    date: "20 nov",
-    url: "/blog-single",
+    title: "Introducing the latest Sage fly rod",
+    date: "20 jan",
+    url: "/news-single",
     image: blogImage3,
   },
   {
-    title: "a deep understanding of our audience",
-    date: "20 nov",
-    url: "/blog-single",
+    title: "A deep understanding of fly fishing lakes",
+    date: "20 feb",
+    url: "/news-single",
     image: blogImage4,
   },
   {
-    title: "We build and activate brands insight",
-    date: "20 nov",
-    url: "/blog-single",
+    title: "How to tie a fly pattern: nymphs",
+    date: "20 mar",
+    url: "/news-single",
     image: blogImage5,
   },
   {
     title:
-      "Holisticly conceptualize backend scenarios via accurate technologies.",
-    date: "20 nov",
-    url: "/blog-single",
+      "How to tie a fly pattern: dry fly",
+    date: "20 may",
+    url: "/news-single",
     image: blogImageTwo2,
   },
   {
-    title: "experiences that connect with people",
-    date: "20 nov",
-    url: "/blog-single",
+    title: "Why does the fishing suck sometimes?",
+    date: "20 jun",
+    url: "/news-single",
     image: blogImage6,
   },
 ];
 
 export const BlogHomeSection = {
-  subTitle: "our news & articles",
-  title: "latest blog posts",
+  subTitle: "our news & fishing reports",
+  title: "latest news and fishing reports",
   text:
-    "We are committed to providing our customers with exceptional service while\n offering our employees the best training.",
+    "Read up on the latest news and fishing reports from The Trinity Guide",
 };
 
 import blogS1 from "@/images/blog/11.jpg";
@@ -349,19 +349,19 @@ import blogS3 from "@/images/blog/13.jpg";
 
 export const BlogSidebarPost = [
   {
-    title: "basic rules of running web agency",
+    title: "How we run a fly fishing outfitter business",
     image: blogS1,
-    url: "/blog-single",
+    url: "/news-single",
   },
   {
-    title: "basic rules of running web agency",
+    title: "10 rules in producing a great fly fishing experience",
     image: blogS2,
-    url: "/blog-single",
+    url: "/news-single",
   },
   {
-    title: "basic rules of running web agency",
+    title: "Why a guided fishing trip is over at 5:00 PM",
     image: blogS3,
-    url: "/blog-single",
+    url: "/news-single",
   },
 ];
 
@@ -371,15 +371,15 @@ import commentImage2 from "@/images/blog/10.jpg";
 export const BlogComments = [
   {
     image: commentImage1,
-    name: "David Martin",
-    data: "20 Nov, 2018 - 4:00 pm",
+    name: "David Jones",
+    data: "23 Nov, 2019 - 4:00 pm",
     content:
       "Lorem Ipsum is simply dummy text of the rinting and typesetting been the industry standard dummy text ever sincer condimentum purus. In non ex at ligula fringilla lobortis et not the aliquet.",
   },
   {
     image: commentImage2,
-    name: "Jessica Brown",
-    data: "20 Nov, 2018 - 4:00 pm",
+    name: "Jessica Davis",
+    data: "23 Nov, 2019 - 8:00 pm",
     content:
       "Lorem Ipsum is simply dummy text of the rinting and typesetting been the industry standard dummy text ever sincer condimentum purus. In non ex at ligula fringilla lobortis et not the aliquet.",
   },
@@ -394,38 +394,38 @@ import portfolio06 from "@/images/portfolio/6.jpg";
 
 export const PortfolioData = [
   {
-    title: "Design Styles",
-    categories: ["all", "graphic"],
+    title: "Fly Fishing Styles",
+    categories: ["all", "nymphing"],
     image: portfolio01,
     url: "/portfolio-details",
   },
   {
-    title: "Design Styles",
-    categories: ["all", "graphic"],
+    title: "Fly Fishing Styles",
+    categories: ["all", "swing"],
     image: portfolio02,
     url: "/portfolio-details",
   },
   {
-    title: "Design Styles",
-    categories: ["all", "graphic"],
+    title: "Fly Fishing Styles",
+    categories: ["all", "dry"],
     image: portfolio03,
     url: "/portfolio-details",
   },
   {
-    title: "Design Styles",
-    categories: ["all", "graphic"],
+    title: "Fly Fishing Styles",
+    categories: ["all", "streamer"],
     image: portfolio04,
     url: "/portfolio-details",
   },
   {
-    title: "Design Styles",
-    categories: ["all", "graphic"],
+    title: "Fly Fishing Styles",
+    categories: ["all", "wading"],
     image: portfolio05,
     url: "/portfolio-details",
   },
   {
-    title: "Design Styles",
-    categories: ["all", "graphic"],
+    title: "Fly Fishing Styles",
+    categories: ["all", "drift-boat"],
     image: portfolio06,
     url: "/portfolio-details",
   },
@@ -433,10 +433,10 @@ export const PortfolioData = [
 
 export const PortfolioFilters = [
   { name: "all" },
-  { name: "graphic" },
-  { name: "branding" },
-  { name: "marketing" },
-  { name: "logos" },
+  { name: "nymphing" },
+  { name: "dry" },
+  { name: "streamers" },
+  { name: "swing" },
 ];
 
 import portfolioD01 from "@/images/portfolio/7.jpg";
@@ -444,21 +444,21 @@ import portfolioD02 from "@/images/portfolio/8.jpg";
 
 export const PortfolioDetailsData = {
   gallery: [{ image: portfolioD01 }, { image: portfolioD02 }],
-  title: "Design Styles",
+  title: "Fly Fishing Styles",
   text:
     " Tincidunt elit magnis nulla facilisis sagittis sapien nunc amet ultrices dolores sit ipsum velit purus aliquet massa fringilla leo orci. Sapien nunc amet ultrices, dolores sit ipsum velit purus aliquet, massa fringilla leo orci dolors sit amet elit amet. ",
   client: "Jessica Brown",
   categories: [
     {
-      name: "Graphic,",
+      name: "Nymph,",
       url: "#",
     },
     {
-      name: "Illustrations,",
+      name: "Swing,",
       url: "#",
     },
   ],
-  date: "8 Nov, 2018",
+  date: "8 Nov, 2019",
   socials: [
     {
       name: "Facebook",
@@ -469,7 +469,7 @@ export const PortfolioDetailsData = {
       url: "#",
     },
     {
-      name: "Linkedin",
+      name: "Instagram",
       url: "#",
     },
   ],
@@ -477,74 +477,74 @@ export const PortfolioDetailsData = {
 
 export const ServicePostData = [
   {
-    title: "Modren Design",
+    title: "Modern Fly Fishing",
     text:
       "Phaseus sit amet tristique lorem ipsum is simply free text ligua donec culis leo sus cipit.",
     iconName: "mei-settings",
-    url: "/service-details",
+    url: "/guided-fly-fishing-details",
   },
   {
-    title: "Digital products",
+    title: "Fly Fishing Gear",
     text:
       "Phaseus sit amet tristique lorem ipsum is simply free text ligua donec culis leo sus cipit.",
     iconName: "mei-transfer",
-    url: "/service-details",
+    url: "/guided-fly-fishing-details",
   },
   {
-    title: "Marketing Strategy",
+    title: "Fly Fishing Planning",
     text:
       "Phaseus sit amet tristique lorem ipsum is simply free text ligua donec culis leo sus cipit.",
     iconName: "mei-pie-chart",
-    url: "/service-details",
+    url: "/guided-fly-fishing-details",
   },
 ];
 
 export const ServiceHomeTwoData = {
-  subTitle: "welcome to smart meipaly web agency",
-  title: "We design digital products that \n help grow businesses.",
+  subTitle: "welcome to the trinity guide, fly fishing outfitter",
+  title: "We provide ego-free, experience 1st, guided fly fishing. \n Our goal is your smile.",
   text:
-    "We are committed to providing our customers with exceptional service while\n offering our employees the best training.",
+    "Guided fly fishing is all about the fishing. But there's more!\n We turn your experience into a predictable one where your experience is our craft.",
 };
 
 export const ServiceHomeThreeData = {
-  subTitle: "Services we are offering",
-  title: "Our Services",
+  subTitle: "Guided fly fishing options",
+  title: "Our Waters",
   text:
-    "We are committed to providing our customers with exceptional service while\n offering our employees the best training.",
+    "We have access to all of N. California's waters.\n Our guides can get you into the best water at the right time.",
 };
 
 export const ServicePostTwoData = {
   sectionContent: {
-    title: "We design digital products that \n help grow businesses.",
+    title: "We produce a guided fly fishing experience \n that will elevate your skill.",
     subTitle: "Services we are offering",
     text:
-      "We are committed to providing our customers with exceptional service \n while offering our employees the best training.",
+      "We are committed to providing our guests with an exceptional guided experience \n while offering our knowledge to take with you.",
   },
   posts: [
     {
-      title: "Website Development",
+      title: "Casting Instruction",
       iconName: "mei-web-design",
-      url: "/service-details",
+      url: "/guided-fly-fishing-details",
     },
     {
-      title: "Graphic Designing",
+      title: "Fly Tying Classes",
       iconName: "mei-computer-graphic",
-      url: "/service-details",
+      url: "/guided-fly-fishing-details",
     },
     {
-      title: "Digital Marketing",
+      title: "On The Water Clinics",
       iconName: "mei-development-1",
-      url: "/service-details",
+      url: "/guided-fly-fishing-details",
     },
     {
-      title: "SEo & Content Writing",
+      title: "Swift Water Rescue",
       iconName: "mei-development",
-      url: "/service-details",
+      url: "/guided-fly-fishing-details",
     },
     {
-      title: "App Development",
+      title: "Drift Boat 101",
       iconName: "mei-app-development",
-      url: "/service-details",
+      url: "/guided-fly-fishing-details",
     },
   ],
 };
@@ -555,37 +555,37 @@ import serviceOne03 from "@/images/home_1/8.jpg";
 
 export const ServicePostThreeData = {
   sectionContent: {
-    title: "Let’s create something",
+    title: "Let’s go fishing",
     subTitle: "what we do",
     text:
-      "We are committed to providing our customers with exceptional service \n while offering our employees the best training.",
+      "We are committed to providing our guests with an exceptional fly fishing experience \n while offering our knowledge and experience to ensure the best possible outcome.",
   },
   posts: [
     {
-      title: "web development",
+      title: "guided fly fishing",
       image: serviceOne01,
-      url: "/service-details",
+      url: "/guided-fly-fishing-details",
     },
     {
-      title: "digital marketing",
+      title: "casting instruction",
       image: serviceOne02,
-      url: "/service-details",
+      url: "/guided-fly-fishing-details",
     },
     {
-      title: "product branding",
+      title: "reading water 101",
       image: serviceOne03,
-      url: "/service-details",
+      url: "/guided-fly-fishing-details",
     },
   ],
 };
 
 export const FunfactData = [
   {
-    title: "Projects Completed",
+    title: "Total days on the water for 2021",
     countNumber: 705,
   },
   {
-    title: "Active Clients",
+    title: "Total return clients 2021",
     countNumber: 480,
   },
   {
@@ -602,7 +602,7 @@ import trustClient01 from "@/images/home_1/4.jpg";
 
 export const TrustClientData = {
   image: trustClient01,
-  title: "We are trusted by more than 8900 clients",
+  title: "We are trusted by more than 457 clients",
   text:
     "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incidi-dunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercita-tion ullamco laboris nisi ut aliquip ex ea commodo.",
   url: "/about",
@@ -619,7 +619,7 @@ export const ClientCarouselData = {
     title: "they trust us",
     subTitle: "our clients",
     text:
-      "We are committed to providing our customers with exceptional service \n while offering our employees the best training.",
+      "We are committed to providing our customers with exceptional guided fly fishing service \n while offering our knowledge and experience in providing the very best possible outcome.",
   },
   items: [
     {
@@ -650,13 +650,13 @@ import aboutOne02 from "@/images/about/2.jpg";
 
 export const AboutOneData = {
   sectionContent: {
-    title: "build better website alot quicker with meipaly agency",
+    title: "get a better result from your fly fishing investment",
     subTitle: "get to know us",
   },
   gallery: [aboutOne01, aboutOne02],
   counter: {
     title: "Company Started",
-    number: 1990,
+    number: 2014,
   },
 };
 
@@ -668,10 +668,10 @@ import team05 from "@/images/team/5.jpg";
 
 export const TeamOneData = {
   sectionContent: {
-    title: "expert people",
+    title: "expert fly fishing guides",
     subTitle: "meet the team",
     text:
-      "We are committed to providing our customers with exceptional service \n while offering our employees the best training.",
+      "We are committed to providing our customers with an exceptional fly fishing experience \n while offering our employees the best training.",
   },
   posts: [
     {
