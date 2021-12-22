@@ -598,7 +598,7 @@ License URI:
   bottom: 0;
   left: 0;
   right: 0;
-  background: rgba(230, 43, 74, 0.8);
+  background: rgba(252, 176, 23, 0.8);
   overflow: hidden;
   width: 0;
   height: 100%;
@@ -787,7 +787,7 @@ License URI:
   position: absolute;
   bottom: 0;
   right: 0;
-  background: rgba(230, 43, 74, 0.7);
+  background: rgba(252, 176, 23, 0.8);
   overflow: hidden;
   width: 0;
   height: 100%;
@@ -1122,6 +1122,20 @@ License URI:
 .testimonial {
   background: url(../images/bg/3.jpg) no-repeat fixed center / cover;
   padding-bottom: 113px;
+}
+.testimonial .container {
+  position: relative;
+  z-index: 5;
+}
+.testimonial:after {
+  content: "";
+  background: rgba(0,0,0,0.5);
+  position: absolute;
+  z-index: 2;
+  display: block;
+  width: 100%;
+  top: 0;
+  bottom: 0;
 }
 .testimonial_content {
   position: relative;
