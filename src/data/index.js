@@ -788,7 +788,7 @@ export const VideoOneData = {
   },
   video: {
     image: video01,
-    ID: "y2Eqx6ys1hQ",
+    ID: "4FBNdkK_GiQ",
     title: "Watch Video",
   },
 };
@@ -1006,7 +1006,7 @@ export const VideoTwoData = {
   },
   video: {
     title: "Watch Video",
-    ID: "y2Eqx6ys1hQ",
+    ID: "4FBNdkK_GiQ",
     image: video02,
   },
 };
