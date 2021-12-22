@@ -671,13 +671,13 @@ export const TeamOneData = {
     title: "expert fly fishing guides",
     subTitle: "meet the team",
     text:
-      "We are committed to providing our customers with an exceptional fly fishing experience \n while offering our employees the best training.",
+      "We are committed to providing our customers with an exceptional fly fishing experience \n while offering our knowledge and experience in producing the best fishing possible.",
   },
   posts: [
     {
       image: team01,
       name: "Herman Fisher",
-      designation: "General Manager",
+      designation: "Pro Guide",
       url: "#",
       socials: [
         {
@@ -696,8 +696,8 @@ export const TeamOneData = {
     },
     {
       image: team02,
-      name: "Charlie Kennedy",
-      designation: "Brand Designer",
+      name: "Charlie Tuna",
+      designation: "Certified Casting Instructor",
       url: "",
       socials: [
         {
@@ -716,8 +716,8 @@ export const TeamOneData = {
     },
     {
       image: team03,
-      name: "Helena Adkins",
-      designation: "Seinor Designer",
+      name: "Fred Crabs",
+      designation: "Pro Guide",
       url: "#",
       socials: [
         {
@@ -736,8 +736,8 @@ export const TeamOneData = {
     },
     {
       image: team04,
-      name: "Virginia Farmer",
-      designation: "Marketing Manager",
+      name: "Virginia Bassmaster",
+      designation: "Fly tying instructor",
       url: "#",
       socials: [
         {
@@ -756,8 +756,8 @@ export const TeamOneData = {
     },
     {
       image: team05,
-      name: "Philip Hansen",
-      designation: "Co Founder",
+      name: "Philip Castman",
+      designation: "Instructor",
       url: "#",
       socials: [
         {
@@ -781,8 +781,8 @@ import video01 from "@/images/about/3.jpg";
 
 export const VideoOneData = {
   sectionContent: {
-    title: "Make amazing websites without touching cod",
-    subTitle: "the only design you need",
+    title: "Take the hassle out of fly fishing",
+    subTitle: "Spend most of your time fishing the best water",
     text:
       "Tincidunt elit magnis nulla facilisis sagittis maecenas. Sapien nunc amet ultrices, dolores sit ipsum velit purus aliquet, massa fringilla leo orci. Lorem ipsum dolors sit amet elit magnis amet ultrices purus aliquet.",
   },
@@ -795,8 +795,8 @@ export const VideoOneData = {
 
 export const SubscribeFormData = {
   sectionContent: {
-    title: "Subscribe us",
-    subTitle: "don’t miss out our latest updates",
+    title: "Fly fishing content delivered to you monthly",
+    subTitle: "Reports, our experiences, hot flies and upcoming events",
   },
 };
 
@@ -806,81 +806,81 @@ import testimonial03 from "@/images/home_1/t3.jpg";
 
 export const TestimonialsOneData = {
   sectionContent: {
-    subTitle: "our testimonials",
-    title: "happy customers",
+    subTitle: "testimonials from some of our guests",
+    title: "happy anglers",
   },
   posts: [
     {
-      name: "Cecilia Colon",
+      name: "Cecilia flymen",
       designation: "Director",
       image: testimonial01,
       content:
-        "This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. There are many variations of passages of available, but the majority have suffered alteration in some form by injected hum",
-      date: "25 nov, 2018",
+        "This is due to their excellent guide service, competitive pricing and patience. Thanks for the personal touch. There are many variations of fly fishing. I learned a ton and landed some awesome fish!",
+      date: "25 nov, 2020",
     },
     {
-      name: "Chase Hanson",
+      name: "Chase Rainbows",
       designation: "CO Founder",
       image: testimonial02,
       content:
-        "This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. There are many variations of passages of available, but the majority have suffered alteration in some form by injected hum",
+        "Alex was funny and filled the gaps of a slow day on the water. It happens. Everybody is a hero when the fishing is good. It's how a slow day turns into a day well worth it. I'll be back. I'll book with The Trinity Guide.",
       date: "25 nov, 2018",
     },
     {
-      name: "Mittie Flores",
+      name: "Mittie Mender",
       designation: "Manager",
       image: testimonial03,
       content:
-        "This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. There are many variations of passages of available, but the majority have suffered alteration in some form by injected hum",
-      date: "25 nov, 2018",
+        "Beautiful day. Our guide was kind and courteous. I would have never bee able to catch a fish let alone land one without Alex's help.",
+      date: "25 nov, 2021",
     },
     {
-      name: "Carrie Sims",
+      name: "Carrie Simms",
       designation: "Director",
       image: testimonial01,
       content:
-        "This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. There are many variations of passages of available, but the majority have suffered alteration in some form by injected hum",
-      date: "25 nov, 2018",
+        "As an expert angler and accomplished salt water angler, I hold the world record for casting distance. It's rare that anyone can teach me anything let alone anything about fly fishing since I nearly wrote the ....",
+      date: "25 nov, 2021",
     },
     {
-      name: "Anne Stone",
+      name: "Anne Stonefly",
       designation: "CO Founder",
       image: testimonial02,
       content:
-        "This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. There are many variations of passages of available, but the majority have suffered alteration in some form by injected hum",
-      date: "25 nov, 2018",
+        "Caught numerous steelhead on the Trinity and learned how to implement a rear naked choke while letting fish run. Great day.",
+      date: "25 nov, 2020",
     },
     {
-      name: "Hunter Brewer",
+      name: "Hunter Tightline",
       designation: "Manager",
       image: testimonial03,
       content:
-        "This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. There are many variations of passages of available, but the majority have suffered alteration in some form by injected hum",
+        "Boooyaaaah! Bent rods all day! Yaaahouuw bro! It was all 'Feed line bro, feed it and snap wack! Gotta let'm run so they come back and find the net and photo ka-chow!!'",
       date: "25 nov, 2018",
     },
     {
-      name: "Carrie Sims",
+      name: "Simon Pool",
       designation: "Director",
       image: testimonial01,
       content:
-        "This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. There are many variations of passages of available, but the majority have suffered alteration in some form by injected hum",
-      date: "25 nov, 2018",
+        "Great day, great guides. We used Alex and The Trinity Guide staff for a company team building adventure. Very productive experience. We will be back.",
+      date: "25 nov, 2020",
     },
     {
-      name: "Anne Stone",
+      name: "Barney Highstick",
       designation: "CO Founder",
       image: testimonial02,
       content:
-        "This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. There are many variations of passages of available, but the majority have suffered alteration in some form by injected hum",
+        "Learned a ton about fly fishing. Now I'm hooked. I'm a beginner and new nothing about fly fishing. Now I can't wait to get back out on the river. So fun!",
       date: "25 nov, 2018",
     },
     {
-      name: "Hunter Brewer",
+      name: "River Lipripper",
       designation: "Manager",
       image: testimonial03,
       content:
-        "This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. There are many variations of passages of available, but the majority have suffered alteration in some form by injected hum",
-      date: "25 nov, 2018",
+        "Booked a day on Fall River. Totally got schooled because I can't cast much further than the edge of the boat.",
+      date: "25 jun, 2018",
     },
   ],
 };
@@ -892,9 +892,9 @@ import featureTab03 from "@/images/home_1/c3.jpg";
 export const FeatureTabData = {
   sectionContent: {
     title: "why choose us",
-    subTitle: "our benefits",
+    subTitle: "benefits of fishing with us",
     text:
-      "We are committed to providing our customers with exceptional service while\n offering our employees the best training.",
+      "We are committed to providing our customers with an exceptional fishing experience.\n There is not shortage of good fishing guides in N. California. We promise you won't find with The Trinity Guide.",
   },
   posts: [
     {
@@ -904,74 +904,74 @@ export const FeatureTabData = {
       image: featureTab01,
       lists: [
         {
-          item: "Self-contained, state-of-the-art time clock",
+          item: "Certified CPR, First Aide",
         },
         {
-          item: "Scalability of up to 500 employees per time clock",
+          item: "Certified swift water rescue",
         },
         {
-          item: "The ability to connect up to 32 time clocks",
+          item: "FFF Certified Casting Instructors",
         },
         {
-          item: "Employee self-enrollment",
+          item: "All guides go through a background check",
         },
         {
-          item: "Payroll integration",
+          item: "Spotless boats, quality gear and tackle",
         },
         {
-          item: "Built-in backup camera to verify failed punches",
+          item: "We work at your pace. We help beginners, assist the more experienced",
         },
       ],
     },
     {
-      title: "Awesome Support",
+      title: "24 Hour Support",
       content:
-        "There are many variations of passages of lorem ipsum available, but the majority have  suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+        "Need help with the waters in N. California? Call us or send a message. Within 24 hours you will receive actionable insight helping you enjoy the most productive time on the water possible.",
       image: featureTab02,
       lists: [
         {
-          item: "Self-contained, state-of-the-art time clock",
+          item: "Advice on fly selection",
         },
         {
-          item: "Scalability of up to 500 employees per time clock",
+          item: "How to approach any type of run",
         },
         {
-          item: "The ability to connect up to 32 time clocks",
+          item: "Best wader advice",
         },
         {
-          item: "Employee self-enrollment",
+          item: "Best time of day on any of the waters we fish",
         },
         {
-          item: "Payroll integration",
+          item: "Tackle recommendations",
         },
         {
-          item: "Built-in backup camera to verify failed punches",
+          item: "Food and hotel recommendations",
         },
       ],
     },
     {
-      title: "1 Click demo install",
+      title: "Book a guided trip online",
       content:
-        "There are many variations of passages of lorem ipsum available, but the majority have  suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+        "Easy booking online allows you to lorem ipsum available, but the majority have  suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
       image: featureTab03,
       lists: [
         {
-          item: "Self-contained, state-of-the-art time clock",
+          item: "For beginners to experts",
         },
         {
-          item: "Scalability of up to 500 employees per time clock",
+          item: "Online booking makes scheduling fast and easy",
         },
         {
-          item: "The ability to connect up to 32 time clocks",
+          item: "All documentation and conformations delivered via email",
         },
         {
-          item: "Employee self-enrollment",
+          item: "Consult with your guide via email/SMS or voice in advance",
         },
         {
-          item: "Payroll integration",
+          item: "Schedule multiple days",
         },
         {
-          item: "Built-in backup camera to verify failed punches",
+          item: "Group trips not eligible for online booking",
         },
       ],
     },
@@ -980,18 +980,18 @@ export const FeatureTabData = {
 
 export const ParallaxOneData = {
   iconName: "mei-team",
-  title: "Great things in business are never done by one person.",
-  specialText: "They’re done by a team of people.",
+  title: "Great happens because we fish great water.",
+  specialText: "Our guides take a good day and turn it into a great day.",
   text:
-    "We are committed to providing our customers with exceptional service while \n offering our employees the best training.",
+    "We are committed to providing our guests with an exceptional experience \n while sharing knowledge and experience.",
 };
 
 export const PortfolioHomeData = {
   sectionContent: {
-    title: "work showcase",
-    subTitle: "our portfolio",
+    title: "fly fishing showcase",
+    subTitle: "our portfolio of waters",
     text:
-      "We are committed to providing our customers with exceptional service while\n offering our employees the best training.",
+      "We are committed to providing our guests with an exceptional experience \n while sharing knowledge and experience.",
   },
 };
 
@@ -999,10 +999,10 @@ import video02 from "@/images/home_1/3.jpg";
 
 export const VideoTwoData = {
   sectionContent: {
-    title: "Digital Experience",
-    subTitle: "how do we works",
+    title: "Fly Fishing Experience",
+    subTitle: "how we work",
     text:
-      "We are committed to providing our customers with exceptional service while\n offering our employees the best training.",
+      "We are committed to providing our guests with an exceptional experience \n while sharing knowledge and experience.",
   },
   video: {
     title: "Watch Video",
@@ -1016,10 +1016,10 @@ import aboutTwo02 from "@/images/home_1/1.jpg";
 
 export const AboutTwoData = {
   sectionContent: {
-    title: "We are the Best Website agency in The World",
-    subTitle: "welcom to smart meipaly web agency",
+    title: "For a great experience, select The Trinity Guide",
+    subTitle: "Tight lines, big smiles",
     text:
-      "We are committed to providing our customers with exceptional service while offering our employees the best training. Lorem Ipsum is simply dummy text of the printing and typesetting industry has been the industry's standard dummy text ever since the 1500s.",
+      "We are committed to providing our guests with an exceptional experience while offering our experience and knowledge. Lorem Ipsum is simply dummy text of the printing and typesetting industry has been the industry's standard dummy text ever since the Gold Rush of 1854.",
   },
   button: {
     label: "Learn More",
@@ -1033,40 +1033,40 @@ import featureTwo01 from "@/images/home_1/5.jpg";
 export const FeatureTwoData = {
   sectionContent: {
     title: "real experience",
-    subTitle: "our core features",
+    subTitle: "our core purpose",
     text:
-      " We are committed to providing our customers with exceptional service while offering our employees the best training. ",
+      " We are committed to providing our guests with an exceptional experience while offering our experience and knowledge. ",
   },
   posts: [
     {
-      title: "No Coding Skills Require",
+      title: "Beginners Wanted",
       text:
-        "There are many variations of passages of lorem ipsum available, but the majority have suffered.",
+        "We excel working with new or beginner anglers. This aspect is our #1 skill.",
     },
     {
-      title: "Online Documentation",
+      title: "Online Courses",
       text:
-        "There are many variations of passages of lorem ipsum available, but the majority have suffered.",
+        "Learn how to read water, cast a fly rod, tie a fly or even become a guide.",
     },
     {
-      title: "SEO Optimized",
+      title: "Ready 365 Days a Year",
       text:
-        "There are many variations of passages of lorem ipsum available, but the majority have suffered.",
+        "N. California is known for it's great fly fishing opportunities that exist all year long.",
     },
   ],
   image: {
-    text: "Total design freedom \n for everyone.",
+    text: "Total fly fishing support \n for everyone.",
     path: featureTwo01,
   },
 };
 
 export const CallToActionTwoData = [
   {
-    label: "View our Recent Work",
+    label: "View some of our recent experiences",
     url: "/portfolio",
   },
   {
-    label: "Reqeust a free quote",
+    label: "Request a consultation",
     url: "/contact",
   },
 ];
