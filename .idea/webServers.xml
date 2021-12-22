@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8c850585-9623-454c-8979-bb3dcb28eb78" name="ver2.thetrinityguide.com">
+        <fileTransfer rootFolder="/home/jiujitsu/public_html/ver2" accessType="SFTP" host="178.128.69.182" port="122" sshConfigId="888e6feb-ceed-4df5-8fdd-fd2c8770b40f" sshConfig="jiujitsu@178.128.69.182:122 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
