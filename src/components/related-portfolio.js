@@ -28,12 +28,12 @@ const RelatedPortfolio = () => {
       <div className="container">
         <div className="row">
           <div className="col-lg-12 text-center">
-            <h4 className="sub_title">our portfolio</h4>
-            <h2 className="sec_title">related work</h2>
+            <h4 className="sub_title">our waters</h4>
+            <h2 className="sec_title">related fly fishing work</h2>
             <p className="sec_desc">
-              We are committed to providing our customers with exceptional
-              service while
-              <br /> offering our employees the best training.
+              We are committed to providing our customers with an exceptional
+              fly fishing experience while
+              <br /> sharing our experience and knowledge.
             </p>
           </div>
         </div>

@@ -91,7 +91,7 @@ const PopupMenu = () => {
                 <li>Phone: 666 888 000</li>
                 <li>Email: needhelp@meipaly.com</li>
                 <li>
-                  Address: 66 Broklyn Street, New York United States of America
+                  Address: 66 Green Water, Douglas City United States of America
                 </li>
               </ul>
             </div>

@@ -6,7 +6,7 @@ const AuthorCard = () => {
     <div className="post_author">
       <img src={authorImage} alt="" />
       <h3>
-        <a href="#">Christine Eve</a>
+        <a href="#">Alex Ross</a>
       </h3>
       <p>
         Lorem Ipsum is simply dummy text of the rinting and typesetting been the

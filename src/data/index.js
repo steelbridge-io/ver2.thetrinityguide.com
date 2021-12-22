@@ -53,7 +53,7 @@ export const NavLinks = [
       },
       {
         name: "Portfolio Details",
-        url: "/portfolio-details",
+        url: "/service-details",
       },
     ],
   },

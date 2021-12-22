@@ -24,10 +24,10 @@ const BlogSidebar = () => {
         <div className="meipaly_categorie_widget">
           <ul>
             <li>
-              <a href="#">Business</a>
+              <a href="#">Guided Fly Fishing</a>
             </li>
             <li>
-              <a href="#">Introductions</a>
+              <a href="#">Our Guides</a>
             </li>
             <li>
               <a href="#">One Page Template</a>
@@ -36,10 +36,10 @@ const BlogSidebar = () => {
               <a href="#">Parallax Effects</a>
             </li>
             <li>
-              <a href="#">New Technologies</a>
+              <a href="#">New Techniques, Tackle</a>
             </li>
             <li>
-              <a href="#">Video Backgrounds</a>
+              <a href="#">Fly Fishing Video</a>
             </li>
           </ul>
         </div>
@@ -47,10 +47,10 @@ const BlogSidebar = () => {
       <aside className="widget">
         <h3 className="widget_title">Tags:</h3>
         <div className="meipaly_tagcloude_widget">
-          <a href="#">Business,</a> <a href="#">Agency,</a>{" "}
-          <a href="#">Digital,</a> <a href="#">Technology,</a>
-          <a href="#">Parallax,</a> <a href="#">Innovative,</a>{" "}
-          <a href="#">Professional,</a>
+          <a href="#">Guides,</a> <a href="#">The Trinity Guide,</a>{" "}
+          <a href="#">Our Waters,</a> <a href="#">Equipment,</a>
+          <a href="#">Seasons,</a> <a href="#">Fishing Reports,</a>{" "}
+          <a href="#">Our Mission,</a>
           <a href="#">Experience,</a>
         </div>
       </aside>

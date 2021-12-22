@@ -12,16 +12,16 @@ const SinglePostCard = () => {
         </div>
         <div className="blog_headings">
           <span className="blog_date">20 nov</span>
-          <h2>Become the best sale marketer</h2>
+          <h2>Become the best fly angler you can be</h2>
           <p className="blog_metas">
-            <a href="#">By layerdrops</a>-<a href="#">30 Likes</a>-
+            <a href="#">The Trinity Guide Training</a>-<a href="#">30 Likes</a>-
             <a href="#">2 Comments</a>
           </p>
         </div>
         <div className="blog_details">
           <p>
-            There are many variations of passages of Lorem Ipsum available, but
-            the majority have suffered alteration in some form, by injected
+            There are many variations of fishing of Lorem Ipsum available, but
+            the majority have broken off their fish alteration in some form, by injected
             humour, or randomised words which don't look even slightly
             believable. If you are going to use a passage of Lorem Ipsum, you
             need to be sure there isn't anything embarrassing hidden in the
@@ -34,8 +34,8 @@ const SinglePostCard = () => {
             non-characteristic words etc.
           </p>
           <p>
-            It is a long established fact that a reader will be distracted by
-            the readable content of a page when looking at its layout. The point
+            It is a long established fact that an angler will be distracted by
+            the beer content of a page when looking at its layout. The point
             of using Lorem Ipsum is that it has a more-or-less normal
             distribution of letters, as opposed to using 'Content here, content
             here', making it look like readable English. Many desktop publishing
@@ -48,8 +48,8 @@ const SinglePostCard = () => {
         </div>
         <div className="blog_tagitems">
           <span>Tags:</span>
-          <a href="#">Business</a>, <a href="#">Agency</a>,{" "}
-          <a href="#">Digital</a>, <a href="#">Technology</a>
+          <a href="#">Guided Fishing</a>, <a href="#">About Us</a>,{" "}
+          <a href="#">Our Waters</a>, <a href="#">Our Boats and Equipment</a>
         </div>
         <AuthorCard />
         <Comments />
