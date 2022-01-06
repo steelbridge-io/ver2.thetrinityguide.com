@@ -45,7 +45,8 @@ const HeaderOne = () => {
           <Col className="col-6" lg={2} md={3} sm={3}>
             <div className="logo">
               <Link to="/">
-                <img src={LogoImage.light} alt="" />
+                {/*<img src={LogoImage.light} alt="" />*/}
+                <h1>The Trinity Guide</h1>
               </Link>
             </div>
           </Col>

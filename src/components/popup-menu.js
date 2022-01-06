@@ -88,10 +88,10 @@ const PopupMenu = () => {
           <div className="row">
             <div className="col-lg-6 col-sm-12 col-xs-12 text-center text-md-left">
               <ul className="footer__contacts">
-                <li>Phone: 666 888 000</li>
-                <li>Email: needhelp@meipaly.com</li>
+                <li>Phone: (530) 338-5734</li>
+                <li><a href="/contact" title="Contact The Trinity Guide">Contact Alex Ross | The Trinity Guide</a></li>
                 <li>
-                  Address: 66 Green Water, Douglas City United States of America
+                  Address: Douglas City California
                 </li>
               </ul>
             </div>
